@@ -1,0 +1,28 @@
+{
+  "name": "atm-info-ui",
+  "version": "1.0.0",
+  "description": "ATM Milano info & status webapp. ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moebiusmania/atm-info-ui.git"
+  },
+  "author": "Salvatore Laisa <moebiusmania@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moebiusmania/atm-info-ui/issues"
+  },
+  "homepage": "https://github.com/moebiusmania/atm-info-ui#readme",
+  "dependencies": {
+    "@polymer/polymer": "false3.0.0-pre.1"
+  },
+  "devDependencies": {
+    "live-server": "1.2.0",
+    "text-loader": "0.0.1",
+    "webpack": "3.6.0",
+    "webpack-notifier": "1.5.0"
+  }
+}
